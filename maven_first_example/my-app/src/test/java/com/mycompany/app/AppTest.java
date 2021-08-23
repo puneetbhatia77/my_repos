@@ -3,7 +3,7 @@ package com.mycompany.app;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-
+import junit.framework.akashTest;
 /**
  * Unit test for simple App.
  */
@@ -28,7 +28,7 @@ public class AppTest
         return new TestSuite( AppTest.class );
     }
 
-    public akash Test( String testName akash )
+    public akashTest( String testName akash )
     {
         super( testName akash );
     }
