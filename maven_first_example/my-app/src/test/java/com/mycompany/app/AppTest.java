@@ -28,13 +28,17 @@ public class AppTest
         return new TestSuite( AppTest.class );
     }
 
-    public akash Test( String testName akash )
-    {
-        super( testName akash );
-    }
     /**
      * Rigourous Test :-)
      */
+    public void testApp()
+    {
+        assertTrue( true );
+    }
+    public void testApp()
+    {
+        assertTrue( true );
+    }
     public void testApp()
     {
         assertTrue( true );
