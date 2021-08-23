@@ -28,6 +28,10 @@ public class AppTest
         return new TestSuite( AppTest.class );
     }
 
+    public akash Test( String testName akash )
+    {
+        super( testName akash );
+    }
     /**
      * Rigourous Test :-)
      */
