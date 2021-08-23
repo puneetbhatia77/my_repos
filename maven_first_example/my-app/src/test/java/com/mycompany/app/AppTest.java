@@ -7,7 +7,7 @@ import junit.framework.TestSuite;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class AppTest
     extends TestCase
 {
     /**
@@ -28,10 +28,6 @@ public class AppTest
         return new TestSuite( AppTest.class );
     }
 
-    public akashTest( String testName akash )
-    {
-        super( testName akash );
-    }
     /**
      * Rigourous Test :-)
      */
