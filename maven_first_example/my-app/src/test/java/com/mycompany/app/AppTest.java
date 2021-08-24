@@ -31,15 +31,15 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
+    public void testApp1()
     {
         assertTrue( true );
     }
-    public void testApp()
+    public void testApp2()
     {
         assertTrue( true );
     }
-    public void testApp()
+    public void testApp3.()
     {
         assertTrue( true );
     }
