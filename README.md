@@ -1,4 +1,4 @@
-Read me file created and pushed with following commands.
+Read me file created and pushed with following commands..
 
 vi README.md 
 git init 
